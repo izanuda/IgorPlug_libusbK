@@ -1,0 +1,8 @@
+Debug
+IgorUSB/Debug
+Release
+IgorUSB/Release
+*.sdf
+*.suo
+*.vcxproj.user
+.vs
